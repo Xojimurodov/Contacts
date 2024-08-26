@@ -12,3 +12,4 @@ C:\Users\HP\Projects\Contact\obj\Debug\net8.0\refint\Contact.dll
 C:\Users\HP\Projects\Contact\obj\Debug\net8.0\Contact.pdb
 C:\Users\HP\Projects\Contact\obj\Debug\net8.0\Contact.genruntimeconfig.cache
 C:\Users\HP\Projects\Contact\obj\Debug\net8.0\ref\Contact.dll
+C:\Users\HP\Projects\Contact\obj\Debug\net8.0\Contact.sourcelink.json
